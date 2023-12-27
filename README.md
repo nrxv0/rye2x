@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rye2x
-- 👀 I’m interested in Cyber security , web developement , Animes, manga, webtoons, books..
-- 🌱 I’m currently learning Django :"
+- 👀 I’m interested in Cyber security , web developement ..
+- 🌱 I’m currently learning React Js :"
 - 📫 How to reach me ...
 
 <!---
