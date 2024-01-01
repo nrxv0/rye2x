@@ -21,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rye2x&show_icons=true&locale=en" alt="rye2x" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=rye2x&show_icons=true&theme=midnight-purple"/></p>
-()
 
 ![](https://komarev.com/ghpvc/?username=your-github-rye2x&color=blueviolet)
 
