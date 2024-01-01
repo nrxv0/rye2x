@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Houda</h1>
 <h3 align="center">A frontend developer, and Cyber security enthusiast from Algeria</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rye2x&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rye2x&theme=midnight-purple)](https://git.io/streak-stats)
 
 
 
