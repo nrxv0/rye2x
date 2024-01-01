@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Houda</h1>
 <h3 align="center">A frontend developer, and Cyber security enthusiast from Algeria</h3>
 <div align="center">
-  hi
-</div>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=rye2x&theme=midnight-purple)](https://git.io/streak-stats)
 
 
@@ -25,4 +25,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rye2x&show_icons=true&theme=midnight-purple"/></p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-rye2x&color=blueviolet)
+
+</div>
 
