@@ -2,7 +2,8 @@
 <h3 align="center">A frontend developer, and Cyber security enthusiast from Algeria</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rye2x&theme=tokyonight)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=your-github-rye2x&color=bleuviolet)
+<p>![](https://komarev.com/ghpvc/?username=your-github-rye2x&color=blueviolet)</p>
+
 
 
 - 🔭 I’m currently working on **Database and GL projects**
