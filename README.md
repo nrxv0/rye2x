@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houda</h1>
 <h3 align="center">A frontend developer, and Cyber security enthusiast from Algeria</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on **Database and GL projects**
