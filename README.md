@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Houda</h1>
 <h3 align="center">A frontend developer, and Cyber security enthusiast from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rye2x&label=Profile%20views&color=0e75b6&style=flat" alt="rye2x" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rye2x" alt="rye2x" /></a> </p>
 
 - 🔭 I’m currently working on **Database and GL projects**
 
