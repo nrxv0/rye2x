@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Houda</h1>
 <h3 align="center">A frontend developer, and Cyber security enthusiast from Algeria</h3>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; border: 1px solid black;">
+<div align="center">
   hi
 </div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rye2x&theme=midnight-purple)](https://git.io/streak-stats)
 
 
