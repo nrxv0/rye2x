@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **Database and GL projects**
+- 🔭 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **n_boutemine@estin.dz**
 
